@@ -1,5 +1,5 @@
 {
-  "name": "@wolf-table/table-renderer",
+  "name": "@lumel/table-renderer",
   "version": "0.0.1",
   "description": "a based-canvas table renderer",
   "main": "dist/table-renderer.js",
